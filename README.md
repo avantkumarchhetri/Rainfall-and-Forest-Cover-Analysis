@@ -28,3 +28,7 @@ Plotting a scatterplot before and after inserting tthe line of best fit
 ![](/Images/1.png)
 ![](/Images/2.png)
 
+See how most of the points lie on or near the line of best fit. This shows a positive correlation.
+Well, there are some outliers, but, they all have different geological reasons like location, extent 
+and other climatic factors.
+
