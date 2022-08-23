@@ -17,8 +17,14 @@ plot, regression lines etc. to draw inferences.
 In this project a sample .csv file named as rainfall.csv is used and 
 imported into RStudio, then some predefined functions are applied.
 
-The data has been collected from various websites like The Forest Survey of 
+The dataset has been custom made after collecting different features from various websites like The Forest Survey of 
 India Report and mydata.gov.in .
 
-Here is a map visualization of two features of the dataset, the annual rainfall in mm and the %Forest Cover
+Here are some visualizations of the dataset.
 ![](/Images/map.png)
+
+Plotting a scatterplot before and after inserting tthe line of best fit
+
+![](/Images/1.png)
+![](/Images/2.png)
+
