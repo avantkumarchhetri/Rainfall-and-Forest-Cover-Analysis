@@ -14,4 +14,5 @@ imported into RStudio, then some predefined functions are applied.
 The data has been collected from various websites like The Forest Survey of 
 India Report and mydata.gov.in .
 
-
+Here is a map visualization of two features of the dataset, the annual rainfall in mm and the %Forest Cover
+![](/Images/map.png)
